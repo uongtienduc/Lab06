@@ -9,7 +9,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Dukee/AndroidStudioProjects/Lab06/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Dukee/AndroidStudioProjects/Lab06/app/src/main/res/layout/activity_main2.xml" value="0.3875" />
+        <entry key="..\:/Users/Dukee/AndroidStudioProjects/Lab06/app/src/main/res/layout/bg_shoes.xml" value="0.3875" />
         <entry key="..\:/Users/Dukee/AndroidStudioProjects/Lab06/app/src/main/res/layout/fragment_above.xml" value="0.3875" />
+        <entry key="..\:/Users/Dukee/AndroidStudioProjects/Lab06/app/src/main/res/layout/fragment_below.xml" value="0.3875" />
+        <entry key="..\:/Users/Dukee/AndroidStudioProjects/Lab06/app/src/main/res/layout/list_customshoes.xml" value="0.3875" />
       </map>
     </option>
   </component>
